@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 👯 Por estar aprendendo, quero poder compartilhar o conhecimento que tenho da área financeiras de forma a prender melhor sobre a área de programação.
 - 🤔 Sempre que puder, por favor, indiquem cursos, livros e fórums sobre as áreas que estou aprendendo.
 - 📫 Podem me encontrar através do email da bio.
-- ⚡ Tenho bom conhecimento na área do excel e banco de dados.
+- ⚡ Tenho bom conhecimento na área do excel o que me parece que ajuda bastante a entender como as funções e a logica inicial de programação funcionam.
 -->
