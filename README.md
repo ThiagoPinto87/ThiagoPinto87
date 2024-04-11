@@ -5,3 +5,4 @@
 * 👯 Por estar aprendendo, quero poder compartilhar o conhecimento que vou adquirindo na programação, bem como a que tenho da área financeiras; de forma a aprender melhor sobre a área de programação voltada à minha formação.
 * 🤔 Sempre que puder, por favor, indiquem cursos, livros e fórums sobre as áreas que estou aprendendo. Ficarei extremamente grato.
 * 📫 Podem me encontrar através do email da bio.
+* :tv: Meus estudos e tentativas de automação estou publicando na Twitch. <https://www.twitch.tv/skilo_cba>
